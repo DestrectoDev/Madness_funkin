@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-bf_animated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-losing instancia 10000" x="0" y="0" width="145" height="104" frameX="-3" frameY="0" frameWidth="148" frameHeight="107"/>
+	<SubTexture name="bf-losing instancia 10001" x="145" y="0" width="147" height="106" frameX="-1" frameY="0" frameWidth="148" frameHeight="107"/>
+	<SubTexture name="bf-losing instancia 10002" x="292" y="0" width="148" height="107"/>
+	<SubTexture name="bf-losing instancia 10003" x="0" y="107" width="147" height="106" frameX="-1" frameY="0" frameWidth="148" frameHeight="107"/>
+	<SubTexture name="bf-losing instancia 10004" x="147" y="107" width="146" height="105" frameX="-2" frameY="0" frameWidth="148" frameHeight="107"/>
+	<SubTexture name="bf-normal instancia 10000" x="293" y="107" width="145" height="89" frameX="-4" frameY="0" frameWidth="149" frameHeight="89"/>
+	<SubTexture name="bf-normal instancia 10001" x="0" y="213" width="147" height="89" frameX="-2" frameY="0" frameWidth="149" frameHeight="89"/>
+	<SubTexture name="bf-normal instancia 10002" x="147" y="213" width="149" height="89"/>
+	<SubTexture name="bf-normal instancia 10003" x="296" y="213" width="146" height="89" frameX="-3" frameY="0" frameWidth="149" frameHeight="89"/>
+	<SubTexture name="bf-normal instancia 10004" x="0" y="302" width="145" height="89" frameX="-4" frameY="0" frameWidth="149" frameHeight="89"/>
+</TextureAtlas>

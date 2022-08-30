@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thingZombie.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="acercamiento 10000" x="0" y="0" width="600" height="624" frameX="-14" frameY="-85" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10001" x="0" y="0" width="600" height="624" frameX="-14" frameY="-85" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10002" x="600" y="0" width="603" height="627" frameX="-14" frameY="-64" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10003" x="600" y="0" width="603" height="627" frameX="-14" frameY="-64" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10004" x="1203" y="0" width="601" height="630" frameX="-14" frameY="-52" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10005" x="1804" y="0" width="596" height="644" frameX="-14" frameY="-38" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10006" x="1804" y="0" width="596" height="644" frameX="-14" frameY="-38" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10007" x="2400" y="0" width="596" height="678" frameX="-14" frameY="-23" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10008" x="2996" y="0" width="610" height="700" frameX="0" frameY="-11" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10009" x="2996" y="0" width="610" height="700" frameX="0" frameY="-11" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10010" x="0" y="700" width="604" height="721" frameX="-6" frameY="0" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10011" x="0" y="700" width="604" height="721" frameX="-6" frameY="0" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10012" x="604" y="700" width="596" height="709" frameX="-14" frameY="-5" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10013" x="1200" y="700" width="596" height="703" frameX="-14" frameY="-11" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10014" x="1796" y="700" width="596" height="697" frameX="-14" frameY="-17" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 10015" x="2392" y="700" width="600" height="626" frameX="-14" frameY="-65" frameWidth="617" frameHeight="721"/>
+	<SubTexture name="acercamiento 20000" x="2992" y="700" width="707" height="695" frameX="-28" frameY="-26" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20001" x="2992" y="700" width="707" height="695" frameX="-28" frameY="-26" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20002" x="0" y="1421" width="705" height="663" frameX="-28" frameY="-44" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20003" x="0" y="1421" width="705" height="663" frameX="-28" frameY="-44" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20004" x="705" y="1421" width="697" height="663" frameX="-28" frameY="-38" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20005" x="1402" y="1421" width="697" height="675" frameX="-28" frameY="-26" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20006" x="1402" y="1421" width="697" height="675" frameX="-28" frameY="-26" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20007" x="1402" y="1421" width="697" height="675" frameX="-28" frameY="-26" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20008" x="2099" y="1421" width="697" height="692" frameX="-28" frameY="-10" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20009" x="2796" y="1421" width="706" height="706" frameX="-19" frameY="-4" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20010" x="2796" y="1421" width="706" height="706" frameX="-19" frameY="-4" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20011" x="0" y="2127" width="725" height="721" frameX="0" frameY="0" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20012" x="725" y="2127" width="714" height="702" frameX="-11" frameY="-7" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20013" x="725" y="2127" width="714" height="702" frameX="-11" frameY="-7" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 20014" x="1439" y="2127" width="714" height="695" frameX="-11" frameY="-7" frameWidth="735" frameHeight="721"/>
+	<SubTexture name="acercamiento 30000" x="2153" y="2127" width="666" height="618" frameX="-13" frameY="-40" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30001" x="2819" y="2127" width="663" height="617" frameX="-13" frameY="-32" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30002" x="2819" y="2127" width="663" height="617" frameX="-13" frameY="-32" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30003" x="0" y="2848" width="655" height="615" frameX="-13" frameY="-29" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30004" x="0" y="2848" width="655" height="615" frameX="-13" frameY="-29" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30005" x="655" y="2848" width="655" height="634" frameX="-13" frameY="-20" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30006" x="655" y="2848" width="655" height="634" frameX="-13" frameY="-20" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30007" x="655" y="2848" width="655" height="634" frameX="-13" frameY="-20" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30008" x="1310" y="2848" width="655" height="663" frameX="-13" frameY="0" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30009" x="1965" y="2848" width="668" height="662" frameX="0" frameY="-14" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30010" x="1965" y="2848" width="668" height="662" frameX="0" frameY="-14" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30011" x="2633" y="2848" width="655" height="625" frameX="-13" frameY="-41" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30012" x="2633" y="2848" width="655" height="625" frameX="-13" frameY="-41" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30013" x="3288" y="2848" width="657" height="598" frameX="-11" frameY="-62" frameWidth="679" frameHeight="676"/>
+	<SubTexture name="acercamiento 30014" x="3288" y="2848" width="657" height="598" frameX="-11" frameY="-62" frameWidth="679" frameHeight="676"/>
+</TextureAtlas>

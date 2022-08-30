@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="down.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="demon down instancia 10000" x="0" y="0" width="2476" height="954" frameX="-55" frameY="-260" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10001" x="2476" y="0" width="2506" height="1018" frameX="-25" frameY="-211" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10002" x="4982" y="0" width="2473" height="1105" frameX="-53" frameY="-124" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10003" x="0" y="1105" width="2473" height="1170" frameX="-53" frameY="-76" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10004" x="2473" y="1105" width="2486" height="1143" frameX="-55" frameY="-86" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10005" x="4959" y="1105" width="2483" height="1193" frameX="-58" frameY="-36" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10006" x="0" y="2298" width="2482" height="1143" frameX="-59" frameY="-86" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10007" x="2482" y="2298" width="2482" height="1211" frameX="-59" frameY="-38" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10008" x="4964" y="2298" width="2541" height="1262" frameX="0" frameY="0" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10009" x="0" y="3560" width="2539" height="1181" frameX="-2" frameY="-86" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10010" x="2539" y="3560" width="2482" height="1191" frameX="-59" frameY="-38" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10011" x="5021" y="3560" width="2482" height="1249" frameX="-59" frameY="0" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10012" x="0" y="4809" width="2541" height="1176" frameX="0" frameY="-86" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10013" x="2541" y="4809" width="2539" height="1229" frameX="-2" frameY="-38" frameWidth="2541" frameHeight="1267"/>
+	<SubTexture name="demon down instancia 10014" x="5080" y="4809" width="2482" height="1229" frameX="-59" frameY="0" frameWidth="2541" frameHeight="1267"/>
+</TextureAtlas>

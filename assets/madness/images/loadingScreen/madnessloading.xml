@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="madnessloading.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="complete anim instancia 10000" x="0" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10001" x="295" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10002" x="590" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10003" x="885" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10004" x="1180" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10005" x="1475" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10006" x="0" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10007" x="0" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10008" x="0" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10009" x="295" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10010" x="295" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10011" x="295" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10012" x="295" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10013" x="295" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10014" x="295" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10015" x="0" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10016" x="0" y="129" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10017" x="1475" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10018" x="1180" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10019" x="885" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10020" x="590" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10021" x="295" y="0" width="295" height="129"/>
+	<SubTexture name="complete anim instancia 10022" x="0" y="0" width="295" height="129"/>
+	<SubTexture name="loadingAnimationDone instancia 10000" x="1395" y="434" width="279" height="86"/>
+	<SubTexture name="loadingAnimationDone instancia 10001" x="590" y="129" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10002" x="869" y="129" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10003" x="1148" y="129" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10004" x="1427" y="129" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10005" x="1706" y="129" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10006" x="0" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10007" x="279" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10008" x="558" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10009" x="837" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10010" x="1116" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10011" x="1395" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10012" x="1674" y="258" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10013" x="0" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10014" x="279" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10015" x="558" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10016" x="837" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10017" x="1116" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10018" x="1395" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10019" x="1674" y="346" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10020" x="0" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10021" x="279" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10022" x="558" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10023" x="837" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10024" x="1116" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10025" x="1116" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10026" x="1116" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10027" x="1116" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10028" x="1116" y="434" width="279" height="88"/>
+	<SubTexture name="loadingAnimationDone instancia 10029" x="1116" y="434" width="279" height="88"/>
+	<SubTexture name="loadingStatic instancia 10000" x="1395" y="434" width="279" height="86"/>
+</TextureAtlas>

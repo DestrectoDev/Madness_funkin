@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zalmandarSprite.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zalmamdar dance left0000" x="0" y="0" width="355" height="380" frameX="-10" frameY="-6" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0001" x="355" y="0" width="375" height="362" frameX="0" frameY="-21" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0002" x="730" y="0" width="366" height="365" frameX="-9" frameY="-18" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0003" x="1096" y="0" width="369" height="374" frameX="-10" frameY="-8" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0004" x="1465" y="0" width="378" height="377" frameX="-9" frameY="-3" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0005" x="0" y="380" width="378" height="380" frameX="-9" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0006" x="378" y="380" width="380" height="380" frameX="-10" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0007" x="758" y="380" width="378" height="380" frameX="-12" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0008" x="1136" y="380" width="374" height="380" frameX="-16" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0009" x="1510" y="380" width="360" height="380" frameX="-30" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0010" x="0" y="760" width="354" height="380" frameX="-36" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0011" x="0" y="760" width="354" height="380" frameX="-36" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0012" x="0" y="760" width="354" height="380" frameX="-36" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0013" x="0" y="760" width="354" height="380" frameX="-36" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance left0014" x="0" y="760" width="354" height="380" frameX="-36" frameY="0" frameWidth="390" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0000" x="354" y="760" width="354" height="363" frameX="0" frameY="-23" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0001" x="708" y="760" width="363" height="362" frameX="-1" frameY="-21" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0002" x="1071" y="760" width="360" height="365" frameX="-4" frameY="-18" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0003" x="1431" y="760" width="360" height="374" frameX="-8" frameY="-8" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0004" x="0" y="1140" width="365" height="377" frameX="-11" frameY="-3" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0005" x="365" y="1140" width="359" height="380" frameX="-17" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0006" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0007" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0008" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0009" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0010" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0011" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0012" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0013" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+	<SubTexture name="zalmamdar dance right0014" x="724" y="1140" width="356" height="380" frameX="-23" frameY="0" frameWidth="379" frameHeight="386"/>
+</TextureAtlas>

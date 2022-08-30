@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="givenAsset.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dadoObject instancia 10000" x="0" y="0" width="108" height="99" frameX="-9" frameY="-2" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10001" x="108" y="0" width="107" height="98" frameX="-8" frameY="-2" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10002" x="215" y="0" width="108" height="98" frameX="-6" frameY="-2" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10003" x="323" y="0" width="108" height="98" frameX="-5" frameY="-2" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10004" x="0" y="99" width="111" height="102" frameX="0" frameY="0" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10005" x="0" y="99" width="111" height="102" frameX="0" frameY="0" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10006" x="0" y="99" width="111" height="102" frameX="0" frameY="0" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10007" x="111" y="99" width="110" height="99" frameX="-2" frameY="-1" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10008" x="221" y="99" width="108" height="98" frameX="-5" frameY="-1" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10009" x="329" y="99" width="107" height="98" frameX="-7" frameY="-2" frameWidth="117" frameHeight="102"/>
+	<SubTexture name="dadoObject instancia 10010" x="0" y="201" width="108" height="99" frameX="-9" frameY="-2" frameWidth="117" frameHeight="102"/>
+</TextureAtlas>

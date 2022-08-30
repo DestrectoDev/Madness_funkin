@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="options.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arena combat basic0000" x="0" y="0" width="270" height="49"/>
+	<SubTexture name="arena combat white0000" x="270" y="0" width="270" height="49"/>
+	<SubTexture name="character selector basic0000" x="540" y="0" width="263" height="49"/>
+	<SubTexture name="character selector white0000" x="803" y="0" width="263" height="49"/>
+	<SubTexture name="madness basic0000" x="1066" y="0" width="295" height="216"/>
+	<SubTexture name="madness basic0001" x="1361" y="0" width="295" height="216"/>
+	<SubTexture name="madness basic0002" x="1656" y="0" width="295" height="216"/>
+	<SubTexture name="madness basic0003" x="0" y="216" width="295" height="216"/>
+	<SubTexture name="madness basic0004" x="295" y="216" width="295" height="216"/>
+	<SubTexture name="madness basic0005" x="1066" y="0" width="295" height="216"/>
+	<SubTexture name="madness white0000" x="590" y="216" width="295" height="216"/>
+	<SubTexture name="madness white0001" x="885" y="216" width="295" height="216"/>
+	<SubTexture name="madness white0002" x="1180" y="216" width="295" height="216"/>
+	<SubTexture name="madness white0003" x="1475" y="216" width="295" height="216"/>
+	<SubTexture name="madness white0004" x="0" y="432" width="295" height="216"/>
+	<SubTexture name="playlist basic0000" x="295" y="432" width="209" height="49"/>
+	<SubTexture name="playlist block basic0000" x="504" y="432" width="209" height="49"/>
+	<SubTexture name="playlist block white0000" x="713" y="432" width="209" height="49"/>
+	<SubTexture name="playlist white0000" x="922" y="432" width="209" height="49"/>
+	<SubTexture name="quit basic0000" x="1131" y="432" width="245" height="44"/>
+	<SubTexture name="quit white0000" x="1376" y="432" width="245" height="44"/>
+	<SubTexture name="settings basic0000" x="1621" y="432" width="252" height="48"/>
+	<SubTexture name="settings white0000" x="0" y="648" width="252" height="48"/>
+	<SubTexture name="story campaing basic0000" x="252" y="648" width="277" height="56"/>
+	<SubTexture name="story campaing white0000" x="529" y="648" width="277" height="56"/>
+</TextureAtlas>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="moaiSprite.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead anim0000" x="0" y="0" width="1016" height="451" frameX="-87" frameY="-80" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0001" x="0" y="0" width="1016" height="451" frameX="-87" frameY="-80" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0002" x="1016" y="0" width="1028" height="469" frameX="-87" frameY="-62" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0003" x="2044" y="0" width="1051" height="467" frameX="-61" frameY="-64" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0004" x="3095" y="0" width="1060" height="535" frameX="-29" frameY="-4" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0005" x="4155" y="0" width="1094" height="472" frameX="0" frameY="-64" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0006" x="5249" y="0" width="1078" height="443" frameX="-18" frameY="-94" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0007" x="6327" y="0" width="1056" height="462" frameX="-42" frameY="-76" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0008" x="0" y="535" width="1064" height="477" frameX="-42" frameY="-66" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0009" x="1064" y="535" width="1058" height="453" frameX="-42" frameY="-93" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0010" x="2122" y="535" width="1079" height="497" frameX="-42" frameY="-51" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0011" x="3201" y="535" width="1140" height="564" frameX="-47" frameY="-30" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0012" x="4341" y="535" width="1184" height="619" frameX="-47" frameY="0" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0013" x="5525" y="535" width="1080" height="428" frameX="-47" frameY="-223" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0014" x="6605" y="535" width="1074" height="442" frameX="-47" frameY="-228" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0015" x="0" y="1154" width="1074" height="415" frameX="-47" frameY="-234" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0016" x="1074" y="1154" width="1074" height="367" frameX="-47" frameY="-248" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0017" x="2148" y="1154" width="1074" height="354" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0018" x="3222" y="1154" width="1074" height="372" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0019" x="4296" y="1154" width="1074" height="362" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0020" x="5370" y="1154" width="1074" height="354" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0021" x="6444" y="1154" width="1074" height="354" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0022" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0023" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0024" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0025" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0026" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0027" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0028" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0029" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0030" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0031" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0032" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim0033" x="0" y="1569" width="1074" height="356" frameX="-47" frameY="-261" frameWidth="1231" frameHeight="670"/>
+	<SubTexture name="dead anim confirm0000" x="1074" y="1569" width="1327" height="589"/>
+	<SubTexture name="dead anim confirm0001" x="2401" y="1569" width="1221" height="505" frameX="0" frameY="-84" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0002" x="3622" y="1569" width="1202" height="490" frameX="0" frameY="-99" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0003" x="4824" y="1569" width="1182" height="482" frameX="0" frameY="-107" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0004" x="6006" y="1569" width="1221" height="482" frameX="0" frameY="-107" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0005" x="0" y="2158" width="1215" height="480" frameX="0" frameY="-109" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0006" x="1215" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0007" x="2419" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0008" x="3623" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0009" x="4827" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0010" x="4827" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0011" x="4827" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0012" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0013" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0014" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0015" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0016" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0017" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim confirm0018" x="6031" y="2158" width="1204" height="477" frameX="0" frameY="-112" frameWidth="1327" frameHeight="589"/>
+	<SubTexture name="dead anim loop0000" x="0" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0001" x="1143" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0002" x="2286" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0003" x="3429" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0004" x="4572" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0005" x="5715" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0006" x="6858" y="2638" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0007" x="0" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0008" x="1143" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0009" x="2286" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0010" x="3429" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0011" x="3429" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0012" x="3429" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0013" x="3429" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0014" x="4572" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0015" x="5715" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0016" x="6858" y="3094" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0017" x="0" y="3550" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0018" x="1143" y="3550" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0019" x="2286" y="3550" width="1143" height="456"/>
+	<SubTexture name="dead anim loop0020" x="0" y="2638" width="1143" height="456"/>
+	<SubTexture name="moai down0000" x="3429" y="3550" width="365" height="360" frameX="0" frameY="-24" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0001" x="3794" y="3550" width="365" height="345" frameX="0" frameY="-39" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0002" x="3794" y="3550" width="365" height="345" frameX="0" frameY="-39" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0003" x="4159" y="3550" width="365" height="347" frameX="-1" frameY="-37" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0004" x="4524" y="3550" width="364" height="355" frameX="-2" frameY="-29" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0005" x="4888" y="3550" width="364" height="370" frameX="-2" frameY="-14" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0006" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0007" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0008" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0009" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0010" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0011" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0012" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0013" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai down0014" x="5252" y="3550" width="364" height="385" frameX="-2" frameY="0" frameWidth="366" frameHeight="385"/>
+	<SubTexture name="moai idle0000" x="5616" y="3550" width="307" height="436" frameX="0" frameY="-21" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0001" x="5923" y="3550" width="301" height="439" frameX="-5" frameY="-18" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0002" x="6224" y="3550" width="292" height="446" frameX="-11" frameY="-11" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0003" x="6224" y="3550" width="292" height="446" frameX="-11" frameY="-11" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0004" x="6516" y="3550" width="287" height="454" frameX="-16" frameY="-4" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0005" x="6803" y="3550" width="286" height="456" frameX="-17" frameY="-2" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0006" x="7089" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0007" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0008" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0009" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0010" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0011" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0012" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0013" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0014" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0015" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0016" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0017" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0018" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle0019" x="7376" y="3550" width="287" height="458" frameX="-17" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0000" x="7663" y="3550" width="298" height="434" frameX="0" frameY="-23" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0001" x="0" y="4008" width="286" height="435" frameX="-9" frameY="-22" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0002" x="0" y="4008" width="286" height="435" frameX="-9" frameY="-22" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0003" x="286" y="4008" width="290" height="439" frameX="-5" frameY="-19" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0004" x="576" y="4008" width="286" height="449" frameX="-7" frameY="-9" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0005" x="862" y="4008" width="286" height="453" frameX="-7" frameY="-5" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0006" x="862" y="4008" width="286" height="453" frameX="-7" frameY="-5" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0007" x="1148" y="4008" width="286" height="455" frameX="-6" frameY="-3" frameWidth="298" frameHeight="458"/>
+	<SubTexture name="moai idle alt0008" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0009" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0010" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0011" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0012" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0013" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0014" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0015" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai idle alt0016" x="7376" y="3550" width="287" height="458" frameX="-5" frameY="0" frameWidth="307" frameHeight="458"/>
+	<SubTexture name="moai left0000" x="1434" y="4008" width="468" height="412" frameX="0" frameY="-24" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0001" x="1902" y="4008" width="454" height="409" frameX="-8" frameY="-23" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0002" x="2356" y="4008" width="447" height="415" frameX="-12" frameY="-17" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0003" x="2803" y="4008" width="447" height="415" frameX="-12" frameY="-17" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0004" x="3250" y="4008" width="434" height="420" frameX="-19" frameY="-13" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0005" x="3684" y="4008" width="424" height="425" frameX="-24" frameY="-8" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0006" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0007" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0008" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0009" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0010" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0011" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0012" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0013" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0014" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai left0015" x="4108" y="4008" width="417" height="433" frameX="-24" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="moai miss then0000" x="4525" y="4008" width="403" height="446" frameX="0" frameY="-93" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0001" x="4928" y="4008" width="396" height="454" frameX="-5" frameY="-85" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0002" x="5324" y="4008" width="396" height="496" frameX="-5" frameY="-43" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0003" x="5720" y="4008" width="385" height="539" frameX="-13" frameY="0" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0004" x="6105" y="4008" width="364" height="534" frameX="-28" frameY="-5" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0005" x="6469" y="4008" width="358" height="504" frameX="-33" frameY="-36" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0006" x="6827" y="4008" width="358" height="487" frameX="-33" frameY="-53" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0007" x="7185" y="4008" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0008" x="7185" y="4008" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0009" x="7543" y="4008" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0010" x="7543" y="4008" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0011" x="0" y="4547" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0012" x="0" y="4547" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0013" x="0" y="4547" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai miss then0014" x="0" y="4547" width="358" height="458" frameX="-33" frameY="-82" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="moai right0000" x="358" y="4547" width="437" height="447" frameX="0" frameY="-2" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0001" x="795" y="4547" width="435" height="448" frameX="-4" frameY="-1" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0002" x="795" y="4547" width="435" height="448" frameX="-4" frameY="-1" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0003" x="1230" y="4547" width="433" height="445" frameX="-10" frameY="-4" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0004" x="1663" y="4547" width="432" height="445" frameX="-11" frameY="-4" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0005" x="2095" y="4547" width="430" height="447" frameX="-13" frameY="-2" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0006" x="2525" y="4547" width="430" height="447" frameX="-13" frameY="-2" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0007" x="2955" y="4547" width="430" height="448" frameX="-14" frameY="-1" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0008" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0009" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0010" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0011" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0012" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0013" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai right0014" x="3385" y="4547" width="430" height="449" frameX="-16" frameY="0" frameWidth="446" frameHeight="449"/>
+	<SubTexture name="moai up0000" x="3815" y="4547" width="318" height="512"/>
+	<SubTexture name="moai up0001" x="4133" y="4547" width="318" height="507" frameX="0" frameY="-4" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0002" x="4133" y="4547" width="318" height="507" frameX="0" frameY="-4" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0003" x="4451" y="4547" width="318" height="501" frameX="0" frameY="-10" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0004" x="4769" y="4547" width="318" height="495" frameX="0" frameY="-16" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0005" x="5087" y="4547" width="318" height="489" frameX="0" frameY="-21" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0006" x="5405" y="4547" width="318" height="485" frameX="0" frameY="-25" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0007" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0008" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0009" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0010" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0011" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0012" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0013" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+	<SubTexture name="moai up0014" x="5723" y="4547" width="318" height="487" frameX="0" frameY="-23" frameWidth="318" frameHeight="512"/>
+</TextureAtlas>

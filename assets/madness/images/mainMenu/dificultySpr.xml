@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dificultySpr.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easy static0000" x="0" y="0" width="188" height="34"/>
+	<SubTexture name="easy selected0000" x="0" y="34" width="188" height="34"/>
+	<SubTexture name="hard static0000" x="0" y="68" width="188" height="40"/>
+	<SubTexture name="hard selected0000" x="0" y="108" width="188" height="40"/>
+	<SubTexture name="normal static0000" x="0" y="148" width="188" height="40"/>
+	<SubTexture name="normal selected0000" x="0" y="188" width="188" height="40"/>
+</TextureAtlas>

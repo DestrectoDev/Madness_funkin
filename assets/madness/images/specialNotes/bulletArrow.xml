@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bulletArrow.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bulletArrow0000" x="0" y="0" width="471" height="522"/>
+	<SubTexture name="bulletArrow0001" x="471" y="0" width="471" height="522"/>
+	<SubTexture name="bulletArrow0002" x="942" y="0" width="471" height="522"/>
+	<SubTexture name="bulletArrow0003" x="1413" y="0" width="471" height="522"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-tricky_animated.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tricky-losing0000" x="0" y="0" width="150" height="129" frameX="0" frameY="-3" frameWidth="151" frameHeight="132"/>
+	<SubTexture name="tricky-losing0001" x="150" y="0" width="151" height="127" frameX="0" frameY="-4" frameWidth="151" frameHeight="132"/>
+	<SubTexture name="tricky-losing0002" x="301" y="0" width="150" height="129" frameX="-1" frameY="0" frameWidth="151" frameHeight="132"/>
+	<SubTexture name="tricky-normal0000" x="0" y="129" width="135" height="119" frameX="-1" frameY="-2" frameWidth="136" frameHeight="122"/>
+	<SubTexture name="tricky-normal0001" x="135" y="129" width="135" height="122" frameX="-1" frameY="0" frameWidth="136" frameHeight="122"/>
+	<SubTexture name="tricky-normal0002" x="270" y="129" width="135" height="120" frameX="0" frameY="-1" frameWidth="136" frameHeight="122"/>
+</TextureAtlas>

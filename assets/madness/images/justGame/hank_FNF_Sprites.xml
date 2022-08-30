@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hank_FNF_Sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hand default0000" x="0" y="0" width="691" height="339" frameX="-9" frameY="-34" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0001" x="0" y="0" width="691" height="339" frameX="-15" frameY="-29" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0002" x="0" y="0" width="691" height="339" frameX="-23" frameY="-33" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0003" x="0" y="0" width="691" height="339" frameX="-26" frameY="-39" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0004" x="0" y="0" width="691" height="339" frameX="-32" frameY="-41" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0005" x="0" y="0" width="691" height="339" frameX="-37" frameY="-48" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0006" x="0" y="0" width="691" height="339" frameX="-47" frameY="-30" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0007" x="0" y="0" width="691" height="339" frameX="-55" frameY="-28" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0008" x="0" y="0" width="691" height="339" frameX="-55" frameY="-19" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0009" x="0" y="0" width="691" height="339" frameX="-46" frameY="-6" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0010" x="0" y="0" width="691" height="339" frameX="-37" frameY="0" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0011" x="0" y="0" width="691" height="339" frameX="-25" frameY="0" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0012" x="0" y="0" width="691" height="339" frameX="-9" frameY="-14" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0013" x="0" y="0" width="691" height="339" frameX="0" frameY="-23" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0014" x="0" y="0" width="691" height="339" frameX="0" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0015" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0016" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0017" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0018" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0019" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0020" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0021" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0022" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0023" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0024" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0025" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0026" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default0027" x="0" y="0" width="691" height="339" frameX="-7" frameY="-32" frameWidth="746" frameHeight="386"/>
+	<SubTexture name="hand default WALK0000" x="691" y="0" width="615" height="319" frameX="-7" frameY="-7" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0001" x="691" y="0" width="615" height="319" frameX="-14" frameY="-14" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0002" x="691" y="0" width="615" height="319" frameX="-24" frameY="-24" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0003" x="691" y="0" width="615" height="319" frameX="-37" frameY="-39" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0004" x="691" y="0" width="615" height="319" frameX="-47" frameY="-44" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0005" x="691" y="0" width="615" height="319" frameX="-37" frameY="-24" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0006" x="691" y="0" width="615" height="319" frameX="-25" frameY="-12" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand default WALK0007" x="691" y="0" width="615" height="319" frameX="0" frameY="0" frameWidth="663" frameHeight="363"/>
+	<SubTexture name="hand gun0000" x="1306" y="0" width="579" height="239" frameX="-9" frameY="-4" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0001" x="1306" y="0" width="579" height="239" frameX="-14" frameY="-10" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0002" x="1306" y="0" width="579" height="239" frameX="-24" frameY="-17" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0003" x="1306" y="0" width="579" height="239" frameX="-34" frameY="-25" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0004" x="1306" y="0" width="579" height="239" frameX="-48" frameY="-32" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0005" x="1306" y="0" width="579" height="239" frameX="-61" frameY="-39" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0006" x="1306" y="0" width="579" height="239" frameX="-71" frameY="-46" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0007" x="1306" y="0" width="579" height="239" frameX="-84" frameY="-58" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0008" x="1306" y="0" width="579" height="239" frameX="-77" frameY="-70" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0009" x="1306" y="0" width="579" height="239" frameX="-64" frameY="-60" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0010" x="1306" y="0" width="579" height="239" frameX="-42" frameY="-50" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0011" x="1306" y="0" width="579" height="239" frameX="-28" frameY="-42" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0012" x="1306" y="0" width="579" height="239" frameX="-20" frameY="-34" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0013" x="1306" y="0" width="579" height="239" frameX="-9" frameY="-26" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0014" x="1885" y="0" width="578" height="239" frameX="0" frameY="-6" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0015" x="1306" y="0" width="579" height="239" frameX="-5" frameY="0" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0016" x="1306" y="0" width="579" height="239" frameX="-10" frameY="-4" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0017" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0018" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0019" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0020" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0021" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0022" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0023" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0024" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0025" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0026" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun0027" x="1306" y="0" width="579" height="239" frameX="-11" frameY="-7" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun ATTACK0000" x="2463" y="0" width="1087" height="267" frameX="-32" frameY="-80" frameWidth="1119" frameHeight="347"/>
+	<SubTexture name="hand gun ATTACK0001" x="3550" y="0" width="1028" height="276" frameX="0" frameY="-44" frameWidth="1119" frameHeight="347"/>
+	<SubTexture name="hand gun ATTACK0002" x="4578" y="0" width="969" height="294" frameX="-1" frameY="0" frameWidth="1119" frameHeight="347"/>
+	<SubTexture name="hand gun ATTACK0003" x="5547" y="0" width="576" height="246" frameX="-18" frameY="-82" frameWidth="1119" frameHeight="347"/>
+	<SubTexture name="hand gun ATTACK0004" x="1306" y="0" width="579" height="239" frameX="-31" frameY="-107" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun ATTACK0005" x="1306" y="0" width="579" height="239" frameX="-31" frameY="-107" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun ATTACK0006" x="1306" y="0" width="579" height="239" frameX="-31" frameY="-107" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun ATTACK0007" x="1306" y="0" width="579" height="239" frameX="-31" frameY="-107" frameWidth="664" frameHeight="310"/>
+	<SubTexture name="hand gun SHOOT PRESSED0000" x="6123" y="0" width="1087" height="267" frameX="-43" frameY="-29" frameWidth="1130" frameHeight="296"/>
+	<SubTexture name="hand gun SHOOT PRESSED0001" x="0" y="339" width="1029" height="276" frameX="-6" frameY="0" frameWidth="1130" frameHeight="296"/>
+	<SubTexture name="hand gun SHOOT PRESSED0002" x="1029" y="339" width="975" height="271" frameX="-24" frameY="-5" frameWidth="1130" frameHeight="296"/>
+	<SubTexture name="hand gun SHOOT PRESSED0003" x="2004" y="339" width="577" height="244" frameX="0" frameY="-32" frameWidth="1130" frameHeight="296"/>
+	<SubTexture name="hand gun SHOOT PRESSED0004" x="2004" y="339" width="577" height="244" frameX="-26" frameY="-32" frameWidth="1130" frameHeight="296"/>
+	<SubTexture name="hand gun WALK0000" x="2581" y="339" width="579" height="269" frameX="-3" frameY="-9" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0001" x="2581" y="339" width="579" height="269" frameX="-16" frameY="-20" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0002" x="2581" y="339" width="579" height="269" frameX="-27" frameY="-31" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0003" x="3160" y="339" width="575" height="279" frameX="-43" frameY="-38" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0004" x="3735" y="339" width="571" height="291" frameX="-59" frameY="-34" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0005" x="4306" y="339" width="566" height="299" frameX="-63" frameY="-26" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0006" x="4872" y="339" width="572" height="288" frameX="-58" frameY="-37" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0007" x="5444" y="339" width="577" height="275" frameX="-47" frameY="-39" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0008" x="5444" y="339" width="577" height="275" frameX="-36" frameY="-31" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0009" x="5444" y="339" width="577" height="275" frameX="-24" frameY="-21" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0010" x="5444" y="339" width="577" height="275" frameX="-13" frameY="-12" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hand gun WALK0011" x="5444" y="339" width="577" height="275" frameX="0" frameY="0" frameWidth="630" frameHeight="325"/>
+	<SubTexture name="hank idle0000" x="6021" y="339" width="585" height="527" frameX="0" frameY="-61" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0001" x="6606" y="339" width="569" height="538" frameX="-16" frameY="-50" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0002" x="7175" y="339" width="548" height="538" frameX="-37" frameY="-50" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0003" x="0" y="877" width="512" height="544" frameX="-73" frameY="-44" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0004" x="512" y="877" width="479" height="548" frameX="-106" frameY="-40" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0005" x="991" y="877" width="456" height="546" frameX="-136" frameY="-42" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0006" x="1447" y="877" width="457" height="535" frameX="-146" frameY="-53" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0007" x="1904" y="877" width="466" height="526" frameX="-146" frameY="-62" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0008" x="2370" y="877" width="479" height="518" frameX="-146" frameY="-70" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0009" x="2849" y="877" width="469" height="517" frameX="-146" frameY="-71" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0010" x="3318" y="877" width="463" height="580" frameX="-146" frameY="-8" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0011" x="3781" y="877" width="457" height="588" frameX="-146" frameY="0" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0012" x="4238" y="877" width="456" height="584" frameX="-146" frameY="-4" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0013" x="4694" y="877" width="451" height="566" frameX="-146" frameY="-22" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0014" x="5145" y="877" width="445" height="533" frameX="-146" frameY="-55" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0015" x="5590" y="877" width="439" height="544" frameX="-146" frameY="-44" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0016" x="6029" y="877" width="439" height="524" frameX="-146" frameY="-64" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0017" x="6468" y="877" width="439" height="528" frameX="-146" frameY="-60" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0018" x="6907" y="877" width="439" height="528" frameX="-146" frameY="-60" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0019" x="7346" y="877" width="439" height="528" frameX="-146" frameY="-60" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0020" x="0" y="1465" width="441" height="527" frameX="-144" frameY="-61" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0021" x="441" y="1465" width="460" height="527" frameX="-125" frameY="-61" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0022" x="901" y="1465" width="491" height="527" frameX="-94" frameY="-61" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0023" x="1392" y="1465" width="525" height="527" frameX="-60" frameY="-61" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank idle0024" x="1917" y="1465" width="552" height="527" frameX="-33" frameY="-61" frameWidth="625" frameHeight="588"/>
+	<SubTexture name="hank walk0000" x="2469" y="1465" width="619" height="514" frameX="0" frameY="-48" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0001" x="3088" y="1465" width="599" height="509" frameX="-5" frameY="-53" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0002" x="3687" y="1465" width="559" height="498" frameX="-30" frameY="-64" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0003" x="4246" y="1465" width="511" height="492" frameX="-73" frameY="-71" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0004" x="4757" y="1465" width="480" height="505" frameX="-104" frameY="-58" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0005" x="5237" y="1465" width="471" height="516" frameX="-102" frameY="-47" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0006" x="5708" y="1465" width="445" height="528" frameX="-113" frameY="-35" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0007" x="6153" y="1465" width="400" height="538" frameX="-148" frameY="-25" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0008" x="6553" y="1465" width="393" height="529" frameX="-145" frameY="-34" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0009" x="6946" y="1465" width="416" height="521" frameX="-130" frameY="-42" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0010" x="7362" y="1465" width="453" height="555" frameX="-99" frameY="-8" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0011" x="0" y="2020" width="461" height="566" frameX="-100" frameY="0" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0012" x="461" y="2020" width="447" height="557" frameX="-114" frameY="-9" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0013" x="908" y="2020" width="430" height="532" frameX="-124" frameY="-34" frameWidth="619" frameHeight="566"/>
+	<SubTexture name="hank walk0014" x="1338" y="2020" width="429" height="517" frameX="-122" frameY="-49" frameWidth="619" frameHeight="566"/>
+</TextureAtlas>

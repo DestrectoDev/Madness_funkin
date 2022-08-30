@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charMenu.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf0000" x="0" y="0" width="372" height="390"/>
+	<SubTexture name="dave vendor0000" x="372" y="0" width="801" height="729"/>
+	<SubTexture name="hankMenu0000" x="1173" y="0" width="399" height="588"/>
+</TextureAtlas>

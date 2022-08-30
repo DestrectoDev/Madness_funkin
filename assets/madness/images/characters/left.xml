@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="left.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="demon left instancia 10000" x="0" y="0" width="2591" height="1592" frameX="-249" frameY="-268" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10001" x="2591" y="0" width="2591" height="1677" frameX="-249" frameY="-200" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10002" x="5182" y="0" width="2564" height="1635" frameX="-213" frameY="-240" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10003" x="0" y="1677" width="2530" height="1767" frameX="-160" frameY="-99" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10004" x="2530" y="1677" width="2530" height="1807" frameX="-160" frameY="-65" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10005" x="5060" y="1677" width="2561" height="1796" frameX="-63" frameY="-76" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10006" x="0" y="3484" width="2588" height="1827" frameX="-14" frameY="-34" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10007" x="2588" y="3484" width="2631" height="1866" frameX="0" frameY="-4" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10008" x="5219" y="3484" width="2631" height="1859" frameX="0" frameY="0" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10009" x="0" y="5350" width="2631" height="1869" frameX="0" frameY="-6" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10010" x="2631" y="5350" width="2631" height="1739" frameX="0" frameY="-127" frameWidth="2840" frameHeight="1877"/>
+	<SubTexture name="demon left instancia 10011" x="5262" y="5350" width="2631" height="1741" frameX="0" frameY="-131" frameWidth="2840" frameHeight="1877"/>
+</TextureAtlas>

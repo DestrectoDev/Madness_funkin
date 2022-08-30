@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle instancia 10000" x="0" y="0" width="50" height="50"/>
+	<SubTexture name="pressed instancia 10000" x="50" y="0" width="44" height="44" frameX="-4" frameY="-4" frameWidth="51" frameHeight="52"/>
+	<SubTexture name="pressed instancia 10001" x="94" y="0" width="45" height="45" frameX="-3" frameY="-4" frameWidth="51" frameHeight="52"/>
+	<SubTexture name="pressed instancia 10002" x="94" y="0" width="45" height="45" frameX="-3" frameY="-4" frameWidth="51" frameHeight="52"/>
+	<SubTexture name="pressed instancia 10003" x="139" y="0" width="49" height="50" frameX="-1" frameY="-1" frameWidth="51" frameHeight="52"/>
+	<SubTexture name="pressed instancia 10004" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10005" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10006" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10007" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10008" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10009" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10010" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10011" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10012" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10013" x="188" y="0" width="51" height="52"/>
+	<SubTexture name="pressed instancia 10014" x="188" y="0" width="51" height="52"/>
+</TextureAtlas>

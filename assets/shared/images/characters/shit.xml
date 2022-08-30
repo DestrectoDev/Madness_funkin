@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tricky_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tricky DOWN0000" x="0" y="0" width="991" height="727" frameX="-10" frameY="-10" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0001" x="991" y="0" width="985" height="704" frameX="-8" frameY="-28" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0002" x="991" y="0" width="985" height="704" frameX="-8" frameY="-28" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0003" x="1976" y="0" width="972" height="698" frameX="-19" frameY="-30" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0004" x="2948" y="0" width="970" height="709" frameX="-16" frameY="-23" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0005" x="2948" y="0" width="970" height="709" frameX="-16" frameY="-23" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0006" x="2948" y="0" width="970" height="709" frameX="-16" frameY="-23" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0007" x="3918" y="0" width="991" height="723" frameX="0" frameY="-14" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0008" x="4909" y="0" width="991" height="733" frameX="0" frameY="0" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky DOWN0009" x="4909" y="0" width="991" height="733" frameX="0" frameY="0" frameWidth="1001" frameHeight="737"/>
+	<SubTexture name="Tricky IDLE0000" x="5900" y="0" width="1102" height="683" frameX="-4" frameY="-78" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0001" x="7002" y="0" width="1104" height="693" frameX="-2" frameY="-68" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0002" x="0" y="733" width="1092" height="693" frameX="-1" frameY="-68" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0003" x="0" y="733" width="1092" height="693" frameX="-1" frameY="-68" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0004" x="1092" y="733" width="1072" height="658" frameX="-1" frameY="-103" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0005" x="2164" y="733" width="1089" height="676" frameX="-2" frameY="-85" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0006" x="2164" y="733" width="1089" height="676" frameX="-2" frameY="-85" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0007" x="3253" y="733" width="1089" height="676" frameX="-2" frameY="-85" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0008" x="4342" y="733" width="1106" height="703" frameX="0" frameY="-58" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0009" x="5448" y="733" width="1113" height="688" frameX="0" frameY="-73" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0010" x="6561" y="733" width="1095" height="761" frameX="-5" frameY="0" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0011" x="0" y="1494" width="1095" height="761" frameX="-5" frameY="0" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0012" x="1095" y="1494" width="1103" height="718" frameX="-5" frameY="-43" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0013" x="1095" y="1494" width="1103" height="718" frameX="-5" frameY="-43" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky IDLE0014" x="2198" y="1494" width="1089" height="670" frameX="-5" frameY="-91" frameWidth="1113" frameHeight="761"/>
+	<SubTexture name="Tricky Left0000" x="3287" y="1494" width="1008" height="778" frameX="-117" frameY="-138" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0001" x="4295" y="1494" width="1034" height="803" frameX="-48" frameY="-113" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0002" x="4295" y="1494" width="1034" height="803" frameX="-48" frameY="-113" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0003" x="4295" y="1494" width="1034" height="803" frameX="-48" frameY="-113" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0004" x="5329" y="1494" width="1206" height="826" frameX="0" frameY="-90" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0005" x="6535" y="1494" width="1234" height="916" frameX="-50" frameY="0" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0006" x="6535" y="1494" width="1234" height="916" frameX="-50" frameY="0" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Left0007" x="0" y="2410" width="1266" height="912" frameX="-71" frameY="-4" frameWidth="1337" frameHeight="916"/>
+	<SubTexture name="Tricky Right0000" x="1266" y="2410" width="1318" height="1142" frameX="0" frameY="-11" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0001" x="2584" y="2410" width="1248" height="1146" frameX="-66" frameY="-7" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0002" x="2584" y="2410" width="1248" height="1146" frameX="-66" frameY="-7" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0003" x="2584" y="2410" width="1248" height="1146" frameX="-66" frameY="-7" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0004" x="3832" y="2410" width="1165" height="1149" frameX="-124" frameY="-4" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0005" x="4997" y="2410" width="1085" height="1151" frameX="-201" frameY="-2" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0006" x="4997" y="2410" width="1085" height="1151" frameX="-201" frameY="-2" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0007" x="6082" y="2410" width="1094" height="1153" frameX="-156" frameY="0" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0008" x="0" y="3563" width="1214" height="1145" frameX="-56" frameY="-8" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky Right0009" x="0" y="3563" width="1214" height="1145" frameX="-56" frameY="-8" frameWidth="1318" frameHeight="1153"/>
+	<SubTexture name="Tricky UP0000" x="1214" y="3563" width="1559" height="1411" frameX="0" frameY="0" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0001" x="1214" y="3563" width="1559" height="1411" frameX="0" frameY="0" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0002" x="2773" y="3563" width="1493" height="1393" frameX="-43" frameY="-22" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0003" x="4266" y="3563" width="1434" height="1389" frameX="-94" frameY="-38" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0004" x="4266" y="3563" width="1434" height="1389" frameX="-94" frameY="-38" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0005" x="4266" y="3563" width="1434" height="1389" frameX="-94" frameY="-38" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0006" x="5700" y="3563" width="1350" height="1353" frameX="-134" frameY="-66" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0007" x="5700" y="3563" width="1350" height="1353" frameX="-134" frameY="-66" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0008" x="5700" y="3563" width="1350" height="1353" frameX="-134" frameY="-66" frameWidth="1559" frameHeight="1427"/>
+	<SubTexture name="Tricky UP0009" x="5700" y="3563" width="1350" height="1353" frameX="-134" frameY="-66" frameWidth="1559" frameHeight="1427"/>
+</TextureAtlas>

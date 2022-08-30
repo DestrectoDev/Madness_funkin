@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplash.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note impact 1 blue0000" x="0" y="0" width="184" height="190" frameX="-133" frameY="-133" frameWidth="428" frameHeight="437"/>
+	<SubTexture name="note impact 1 blue0001" x="184" y="0" width="288" height="315" frameX="-76" frameY="-70" frameWidth="428" frameHeight="437"/>
+	<SubTexture name="note impact 1 blue0002" x="472" y="0" width="414" height="407" frameX="-14" frameY="0" frameWidth="428" frameHeight="437"/>
+	<SubTexture name="note impact 1 blue0003" x="0" y="407" width="404" height="417" frameX="0" frameY="-4" frameWidth="428" frameHeight="437"/>
+	<SubTexture name="note impact 1 blue0004" x="404" y="407" width="405" height="432" frameX="-1" frameY="-5" frameWidth="428" frameHeight="437"/>
+	<SubTexture name="note impact 1 blue0005" x="404" y="407" width="405" height="432" frameX="-1" frameY="-5" frameWidth="428" frameHeight="437"/>
+	<SubTexture name="note impact 1 green0000" x="809" y="407" width="184" height="190"/>
+	<SubTexture name="note impact 1 purple0000" x="809" y="407" width="184" height="190"/>
+	<SubTexture name="note impact 1 red0000" x="809" y="407" width="184" height="190"/>
+	<SubTexture name="note impact 2 blue0000" x="0" y="839" width="77" height="68"/>
+	<SubTexture name="note impact 2 green0000" x="0" y="839" width="77" height="68"/>
+	<SubTexture name="note impact 2 purple0000" x="0" y="839" width="77" height="68"/>
+	<SubTexture name="note impact 2 red0000" x="0" y="839" width="77" height="68"/>
+</TextureAtlas>

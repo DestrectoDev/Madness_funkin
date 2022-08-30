@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-M3KYR_animatedM3KYR.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M3KYR-losing instancia 10000" x="0" y="0" width="187" height="207" frameX="-16" frameY="-7" frameWidth="213" frameHeight="226"/>
+	<SubTexture name="M3KYR-losing instancia 10001" x="187" y="0" width="192" height="216" frameX="-14" frameY="-10" frameWidth="213" frameHeight="226"/>
+	<SubTexture name="M3KYR-losing instancia 10002" x="187" y="0" width="192" height="216" frameX="-14" frameY="-10" frameWidth="213" frameHeight="226"/>
+	<SubTexture name="M3KYR-losing instancia 10003" x="379" y="0" width="196" height="221" frameX="-8" frameY="0" frameWidth="213" frameHeight="226"/>
+	<SubTexture name="M3KYR-losing instancia 10004" x="575" y="0" width="213" height="207" frameX="0" frameY="-7" frameWidth="213" frameHeight="226"/>
+	<SubTexture name="M3KYR-losing instancia 10005" x="788" y="0" width="176" height="194" frameX="-20" frameY="-7" frameWidth="213" frameHeight="226"/>
+	<SubTexture name="M3KYR-normal instancia 10000" x="0" y="221" width="163" height="150" frameX="-11" frameY="-11" frameWidth="175" frameHeight="162"/>
+	<SubTexture name="M3KYR-normal instancia 10001" x="163" y="221" width="160" height="154" frameX="-13" frameY="-6" frameWidth="175" frameHeight="162"/>
+	<SubTexture name="M3KYR-normal instancia 10002" x="323" y="221" width="158" height="153" frameX="-12" frameY="-9" frameWidth="175" frameHeight="162"/>
+	<SubTexture name="M3KYR-normal instancia 10003" x="481" y="221" width="158" height="150" frameX="-15" frameY="-7" frameWidth="175" frameHeight="162"/>
+	<SubTexture name="M3KYR-normal instancia 10004" x="639" y="221" width="157" height="156" frameX="-18" frameY="-5" frameWidth="175" frameHeight="162"/>
+	<SubTexture name="M3KYR-normal instancia 10005" x="796" y="221" width="168" height="160" frameX="0" frameY="0" frameWidth="175" frameHeight="162"/>
+	<SubTexture name="M3KYR-wining instancia 10000" x="0" y="381" width="162" height="151" frameX="-11" frameY="-11" frameWidth="174" frameHeight="163"/>
+	<SubTexture name="M3KYR-wining instancia 10001" x="162" y="381" width="160" height="158" frameX="-13" frameY="-4" frameWidth="174" frameHeight="163"/>
+	<SubTexture name="M3KYR-wining instancia 10002" x="322" y="381" width="161" height="153" frameX="-11" frameY="-8" frameWidth="174" frameHeight="163"/>
+	<SubTexture name="M3KYR-wining instancia 10003" x="483" y="381" width="159" height="153" frameX="-14" frameY="-6" frameWidth="174" frameHeight="163"/>
+	<SubTexture name="M3KYR-wining instancia 10004" x="642" y="381" width="156" height="159" frameX="-18" frameY="-4" frameWidth="174" frameHeight="163"/>
+	<SubTexture name="M3KYR-wining instancia 10005" x="798" y="381" width="168" height="161" frameX="0" frameY="0" frameWidth="174" frameHeight="163"/>
+</TextureAtlas>

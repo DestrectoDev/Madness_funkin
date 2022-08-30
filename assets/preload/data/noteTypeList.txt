@@ -1,0 +1,6 @@
+default
+damage
+bullet
+tricky
+fire
+yo que se puta
